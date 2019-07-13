@@ -7,7 +7,7 @@ public class Common
 	public void Browser()
 	{
 		WebElement e=null;
-		System.out.print("thisis test");
+		System.out.print("this is test");
 	}
 
 }
